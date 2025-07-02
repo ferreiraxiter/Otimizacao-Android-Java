@@ -1,0 +1,31 @@
+{
+  "name": "cordova-softniels-plugin",
+  "version": "1.0.3",
+  "description": "Controle sobre otimização de bateria.",
+  "cordova": {
+    "id": "cordova-softniels-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgalle/cordova-softniels-plugin.git"    
+  },
+  "keywords": [
+    "battery",
+    "optimization"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Rafael Galle",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/rafaelgalle/cordova-softniels-plugin/issues"
+  },
+  "homepage": "https://github.com/rafaelgalle/cordova-softniels-plugin"
+}
