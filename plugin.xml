@@ -6,7 +6,7 @@
 	
     <name>snBatteryOptimization</name>
     <description>Controle sobre otimização de bateria.</description>
-    <repo>https://github.com/rafaelgalle/cordova-softniels-plugin.git</repo>
+    <repo>https://github.com/ferreiraxiter/Otimizacao-Android-Java</repo>
     <keywords>battery, optimization</keywords>
     <license>Apache 2.0</license>
     <author>Rafael Galle</author>
